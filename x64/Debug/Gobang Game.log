@@ -1,0 +1,9 @@
+﻿  Board.cpp
+D:\Gitee_bank\Game\Gobang Game\Board.cpp(94,61): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+D:\Gitee_bank\Game\Gobang Game\Board.cpp(95,84): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  Chess.cpp
+  Game.cpp
+  test.cpp
+  正在生成代码...
+    正在创建库 D:\Gitee_bank\Game\Gobang Game\x64\Debug\Gobang Game.lib 和对象 D:\Gitee_bank\Game\Gobang Game\x64\Debug\Gobang Game.exp
+  Gobang Game.vcxproj -> D:\Gitee_bank\Game\Gobang Game\x64\Debug\Gobang Game.exe

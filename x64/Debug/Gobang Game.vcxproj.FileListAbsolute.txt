@@ -1,0 +1,16 @@
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\Gobang Game.exe
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\Gobang Game.vcxproj.CopyComplete
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\concrt140d.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\msvcp140d.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\msvcp140d_atomic_wait.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\msvcp140d_codecvt_ids.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\msvcp140_1d.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\msvcp140_2d.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\vccorlib140d.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\vcruntime140d.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\vcruntime140_1d.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\vcamp140d.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\vcomp140d.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\libomp140.x86_64.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\libomp140d.x86_64.dll
+D:\Gitee_bank\Game\Gobang Game\x64\Debug\ucrtbased.dll
